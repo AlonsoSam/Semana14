@@ -11,6 +11,9 @@ export default function Home() {
         <title>Curso de Desarrollo Web Avanzado | Mi Sitio SEO</title>
         <meta name="description" content="Aprende sobre optimización SEO y rendimiento de aplicaciones web en Next.js." />
         <meta name="keywords" content="Next.js, SEO, optimización web" />
+        
+        <meta name="google-site-verification" content="Swuv7LqKQZtXYd_zmVMfzlTQb6eOtmZF5gVluB118uM" />
+
         <meta property="og:title" content="Curso de Desarrollo Web Avanzado" />
         <meta property="og:description" content="Aprende sobre optimización SEO y rendimiento de aplicaciones web en Next.js." />
         <meta property="og:image" content="/images/seo-image.png" />
