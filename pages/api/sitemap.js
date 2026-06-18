@@ -1,4 +1,4 @@
-const baseUrl = 'https://mi-proyecto-seo-dscq.onrender.com';
+const BASE_URL = 'https://mi-proyecto-seo-dscq.onrender.com';
 
 async function obtenerRutasDesdeCMS() {
   return [
